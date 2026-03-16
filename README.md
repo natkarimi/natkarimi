@@ -31,6 +31,11 @@ Forecasted Saudi Arabia’s military expenditure using time series models includ
 
 Tools: R, Time Series Analysis, Forecasting
 
+### 📊 Customer Segmentation Dashboard (Tableau)
+Developed an interactive Tableau dashboard to analyze customer demographics, spending behavior, and marketing campaign responses.
+
+Tools: Tableau, Data Visualization, Customer Analytics
+
 ## Interests
 
 * Data Analytics
