@@ -1,7 +1,7 @@
 # Hi, I'm Natalie Karimi Ruthugua
 
-🎓 Data Analytics & Business Intelligence Graduate
-  Passionate about turning data into insights that support decision-making.
+Data Analytics & Business Intelligence graduate passionate about turning data into insights that support decision-making.
+I work with Python, R, SAS, Excel and Tableau to analyze data, build predictive models, and create meaningful business insights.
 
 ## Skills
 
